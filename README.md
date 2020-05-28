@@ -1,0 +1,1 @@
+20 y/o developer at Cyberagent . My name is Shotaro Tao. I make apps, servers and sometimes designs. My opinions are my own. Oh yeah, I also like mech ⌨️.
