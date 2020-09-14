@@ -1,4 +1,4 @@
-# taoshotaro
+# Shotaro Tao
 
 <p align="center">
 <img src="https://avatars3.githubusercontent.com/u/12542163" width=200>
