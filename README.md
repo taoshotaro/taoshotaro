@@ -1,8 +1,6 @@
 # Shotaro Tao
 
 <p align="center">
-<img src="https://avatars3.githubusercontent.com/u/12542163" width=200>
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshotaro&count_private=true&layout=compact" />
 </p>
 
