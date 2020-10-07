@@ -19,8 +19,6 @@ A easy to use component-based library for building</br>apps with Swift and Flutt
   <a href="https://github.com/taoshotaro/taoshotaro/blob/master/LICENSE"><img alt="Lincense" src="https://img.shields.io/badge/License-Apache%202.0-black.svg"/></a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshotaro)
-
 ## Getting Started
 
 - My name is Shotaro Tao
