@@ -33,6 +33,7 @@ $ git clone https://github.com/taoshotaro/taoshotaro.git
 $ cd taoshotaro/
 $ make setup
 $ open TaoShotaro.xcworkspace
+$ jk
 ```
 
 ## Requirements
