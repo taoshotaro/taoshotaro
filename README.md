@@ -22,7 +22,7 @@ A easy to use component-based library for building</br>apps with Swift and Flutt
 ## Getting Started
 
 - My name is Shotaro Tao
-- 24 y/o developer working at some tech company
+- 25 y/o developer working at some tech company
 - I make apps, servers and sometimes designs
 - I also like mech ⌨️
 
